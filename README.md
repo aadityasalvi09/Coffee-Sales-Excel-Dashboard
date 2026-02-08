@@ -1,5 +1,3 @@
-# Coffee-Sales-Excel-Dashboard
-This project provides comprehensive sales insights for a coffee business through data visualization and analysis of 1,000 customer orders spanning three years of operations.
 ## 📊 Project Overview
 
 This project analyzes real-world coffee sales data to uncover patterns in customer purchasing behavior, product preferences, and geographic market performance. The interactive dashboard enables data-driven decision-making for inventory management, marketing strategies, and business growth.
