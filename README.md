@@ -6,7 +6,8 @@ This project analyzes real-world coffee sales data to uncover patterns in custom
 ## Dataset Used
 - <a href="https://github.com/aadityasalvi09/Coffee-Sales-Excel-Dashboard/blob/main/coffeeOrdersProject.xlsx">Coffee Sales Data</a>
 ## Dashboard
-<a href="https://github.com/aadityasalvi09/Coffee-Sales-Excel-Dashboard/blob/main/Coffee_Sales_Dashboard.png">View Dashboard</a>
+<img width="896" height="446" alt="Coffee_Sales_Dashboard" src="https://github.com/user-attachments/assets/162ff1d8-468e-415d-b6a8-4c8ba2d23d00" />
+
 ## 🎯 Key Features
 
 ### Dashboard Components
