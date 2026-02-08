@@ -3,6 +3,8 @@ This project provides comprehensive sales insights for a coffee business through
 ## 📊 Project Overview
 
 This project analyzes real-world coffee sales data to uncover patterns in customer purchasing behavior, product preferences, and geographic market performance. The interactive dashboard enables data-driven decision-making for inventory management, marketing strategies, and business growth.
+## Dataset Used
+- <a href="https://github.com/aadityasalvi09/Coffee-Sales-Excel-Dashboard/blob/main/coffeeOrdersProject.xlsx">Coffee Sales Data</a>
 
 ## 🎯 Key Features
 
