@@ -1,8 +1,6 @@
 ## 📊 Project Overview
 
 This project analyzes real-world coffee sales data to uncover patterns in customer purchasing behavior, product preferences, and geographic market performance. The interactive dashboard enables data-driven decision-making for inventory management, marketing strategies, and business growth.
-## Dataset Used
-- <a href="https://github.com/aadityasalvi09/Coffee-Sales-Excel-Dashboard/blob/main/coffeeOrdersData.xlsx">Coffee Sales Data</a>
 ## Dashboard
 <img width="896" height="446" alt="Coffee_Sales_Dashboard" src="https://github.com/user-attachments/assets/162ff1d8-468e-415d-b6a8-4c8ba2d23d00" />
 
@@ -45,3 +43,5 @@ The dashboard consists of multiple interconnected sheets:
 - **Customer Loyalty**: Integrated loyalty card tracking for retention analysis
 - **Roast Varieties**: Light, Medium, and Dark roast options across all coffee types
 - **Order Frequency**: Average quantity per order is 3.5 units
+## Dataset Used
+- <a href="https://github.com/aadityasalvi09/Coffee-Sales-Excel-Dashboard/blob/main/coffeeOrdersData.xlsx">Coffee Sales Data</a>
